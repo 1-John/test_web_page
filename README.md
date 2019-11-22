@@ -48,3 +48,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 [about]: ./about	"title"
 [./about]: ./about	"about"
 
+[./about/](./about/) to maintain and preview the content for your website in Markdown files.
+[/about/](/about/) to maintain and preview the content for your website in Markdown files.
+[./about](./about) to maintain and preview the content for your website in Markdown files.
+[about](about) to maintain and preview the content for your website in Markdown files.
+
