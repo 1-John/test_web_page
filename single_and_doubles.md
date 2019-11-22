@@ -3,7 +3,7 @@ layout: post
 title: Blogging Like a Hacker
 tags: space separated list
 food: Pizza
-single_and_doubles.md
+single_and_doubles
 ---
 
 Single and Double Benchmarks. These are the learning only benchmarks - without predictions, where state space is fully covered by tests as seen at the last picture for singles it is 17 benchmarks, for doubles it is 17x17= 289
