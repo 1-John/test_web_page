@@ -44,3 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - list
 - is 
 - here
+
+[about]: ./about	"title"
+[./about]: ./about	"about"
+
