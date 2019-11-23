@@ -2,9 +2,10 @@
 layout: home
 permalink: /
 ---
-## Readme index of pages:
+## Readme index of pages static files:
+static files
 
-    {% assign image_files = site.static_files | where: "image", true %}
+{% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
   {{ myimage.path }}
 {% endfor %}
