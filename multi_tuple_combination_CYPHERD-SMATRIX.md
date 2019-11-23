@@ -6,5 +6,5 @@ permalink: /multi_tuple_combination_CYPHERD-SMATRIX/
 ---
 
 Comparision of benchmarks with common background load of CYPHERD and SMATRIX.
-[previous graph](./multi_tuple_combination_CYPHERD-ROD/), [next graph](./multi_tuple_combination_CYPHERD-SORTD/)
+[previous graph](../multi_tuple_combination_CYPHERD-ROD/), [next graph](../multi_tuple_combination_CYPHERD-SORTD/)
 <img src="./images/triple/CYPHERD/CYPHERD-SMATRIX_box.png" alt="graph figure"><img src="./images/quadruple/CYPHERD/CYPHERD-SMATRIX_box.png" alt="graph figure"><img src="./images/quintuple/CYPHERD/CYPHERD-SMATRIX_box.png" alt="graph figure">

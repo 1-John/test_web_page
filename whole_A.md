@@ -6,5 +6,5 @@ permalink: /whole_A/
 ---
 
 Comparision of behavior of A benchmark with background load on triples, quadruples and quintuples.
-[previous graph](./whole_AVL/), [next graph](./whole_CYPHERD/)
+[previous graph](../whole_AVL/), [next graph](../whole_CYPHERD/)
 <img src="./images/triple/A_box.png" alt="graph figure"><img src="./images/quadruple/A_box.png" alt="graph figure"><img src="./images/quintuple/A_box.png" alt="graph figure">

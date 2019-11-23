@@ -6,5 +6,5 @@ permalink: /multi_tuple_combination_FLOYD-FLOYD/
 ---
 
 Comparision of benchmarks with common background load of FLOYD and FLOYD.
-[previous graph](./multi_tuple_combination_FLOYD-FACE/), [next graph](./multi_tuple_combination_FLOYD-F/)
+[previous graph](../multi_tuple_combination_FLOYD-FACE/), [next graph](../multi_tuple_combination_FLOYD-F/)
 <img src="./images/triple/FLOYD/FLOYD-FLOYD_box.png" alt="graph figure"><img src="./images/quadruple/FLOYD/FLOYD-FLOYD_box.png" alt="graph figure"><img src="./images/quintuple/FLOYD/FLOYD-FLOYD_box.png" alt="graph figure">
