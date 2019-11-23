@@ -7,4 +7,4 @@ permalink: /multi_tuple_combination_H-FACE/
 
 Comparision of benchmarks with common background load of H and FACE.
 [previous graph](../multi_tuple_combination_H-EGG/), [next graph](../multi_tuple_combination_H-FLOYD/)
-<img src="./images/triple/H/H-FACE_box.png" alt="graph figure"><img src="./images/quadruple/H/H-FACE_box.png" alt="graph figure"><img src="./images/quintuple/H/H-FACE_box.png" alt="graph figure">
+![graph figure](./images/triple/H/H-FACE_box.png)![graph figure](./images/quadruple/H/H-FACE_box.png)![graph figure](./images/quintuple/H/H-FACE_box.png)

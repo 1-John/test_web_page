@@ -4,8 +4,6 @@ permalink: /index/
 ---
 ## Readme index of pages:
 
-/index/
-
 * [./whole_AVL/](./whole_AVL/) 
 * [./whole_A/](./whole_A/) 
 * [./whole_CYPHERD/](./whole_CYPHERD/) 
