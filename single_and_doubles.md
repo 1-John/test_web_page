@@ -10,7 +10,9 @@ Single and Double Benchmarks. These are the learning only benchmarks - without p
 ![graph figure](./images/single/single.png)![graph figure](./images/double/AVL_box.png)![graph figure](./images/double/A_box.png)![graph figure](./images/double/CYPHERD_box.png)![graph figure](./images/double/EGG_box.png)![graph figure](./images/double/FACE_box.png)![graph figure](./images/double/FLOYD_box.png)![graph figure](./images/double/F_box.png)![graph figure](./images/double/H_box.png)![graph figure](./images/double/JSOND_box.png)![graph figure](./images/double/K_box.png)![graph figure](./images/double/O_box.png)![graph figure](./images/double/PDFD_box.png)![graph figure](./images/double/RB_box.png)![graph figure](./images/double/ROD_box.png)![graph figure](./images/double/SMATRIX_box.png)![graph figure](./images/double/SORTD_box.png)![graph figure](./images/double/ZB_box.png)![graph figure](./images/single/double.png){:class="img-responsive"}
 
 
-![graph figure](./images/double/ZB_box.png)![graph figure](./images/single/double.png){:height="50%" width="50%"}
+![graph figure](./images/double/ZB_box.png){:class="img-responsive"} 
+
+![graph figure](./images/single/double.png){:height="50%" width="50%"}
 
 
 ![graph figure](./images/double/ZB_box.png)![graph figure](./images/single/double.png){:height="700px" width="100px"}
