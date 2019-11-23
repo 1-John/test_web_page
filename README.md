@@ -1,9 +1,10 @@
 ---
 permalink: /
 ---
-## Readme index of pages:
+## TODO add text to this Readme 
 
-empty static files
+### index of pages:
+
 * [./whole_AVL/](./whole_AVL/) 
 * [./whole_A/](./whole_A/) 
 * [./whole_CYPHERD/](./whole_CYPHERD/) 
