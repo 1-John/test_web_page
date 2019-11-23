@@ -4,3 +4,7 @@ defaults:
       path: "images/"
     values:
       image: true
+  - scope:
+      path: "images/single"
+    values:
+      image: true
