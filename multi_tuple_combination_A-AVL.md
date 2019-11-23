@@ -1,0 +1,10 @@
+---
+layout: post
+title: Blogging Like a Hacker
+tags: space separated list
+permalink: ./multi_tuple_combination_A-AVL/
+---
+
+Comparision of benchmarks with common background load of A and AVL.
+[previous graph](./whole_quintuple/), [next graph](./multi_tuple_combination_A-A/)
+<img src="./images/triple/A/A-AVL_box.png" alt="graph figure"><img src="./images/quadruple/A/A-AVL_box.png" alt="graph figure"><img src="./images/quintuple/A/A-AVL_box.png" alt="graph figure">

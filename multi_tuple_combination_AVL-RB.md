@@ -1,0 +1,10 @@
+---
+layout: post
+title: Blogging Like a Hacker
+tags: space separated list
+permalink: ./multi_tuple_combination_AVL-RB/
+---
+
+Comparision of benchmarks with common background load of AVL and RB.
+[previous graph](./multi_tuple_combination_AVL-PDFD/), [next graph](./multi_tuple_combination_AVL-ROD/)
+<img src="./images/triple/AVL/AVL-RB_box.png" alt="graph figure"><img src="./images/quadruple/AVL/AVL-RB_box.png" alt="graph figure"><img src="./images/quintuple/AVL/AVL-RB_box.png" alt="graph figure">
