@@ -5,4 +5,4 @@ defaults:
     values:
       image: true
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
