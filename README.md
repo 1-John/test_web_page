@@ -2,6 +2,12 @@
 layout: home
 permalink: /
 ---
+
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+
 ## Readme index of pages:
     
 * [./whole_AVL/](./whole_AVL/) 
