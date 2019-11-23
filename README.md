@@ -3,11 +3,8 @@ layout: home
 permalink: /
 ---
 ## Readme index of pages:
-    {% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  {{ myimage.path }}
-{% endfor %}
-static files
+
+empty static files
 * [./whole_AVL/](./whole_AVL/) 
 * [./whole_A/](./whole_A/) 
 * [./whole_CYPHERD/](./whole_CYPHERD/) 

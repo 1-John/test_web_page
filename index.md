@@ -1,6 +1,5 @@
 ---
 layout: home
-permalink: /index/
 ---
 ## Readme index of pages:
 
