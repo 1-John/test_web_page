@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_AVL-AVL/
+permalink: /multi_tuple_combination_AVL-AVL/
 ---
 
 Comparision of benchmarks with common background load of AVL and AVL.

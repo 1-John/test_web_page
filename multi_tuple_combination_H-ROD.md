@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_H-ROD/
+permalink: /multi_tuple_combination_H-ROD/
 ---
 
 Comparision of benchmarks with common background load of H and ROD.

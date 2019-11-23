@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_EGG-JSOND/
+permalink: /multi_tuple_combination_EGG-JSOND/
 ---
 
 Comparision of benchmarks with common background load of EGG and JSOND.

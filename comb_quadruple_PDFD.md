@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./comb_quadruple_PDFD/
+permalink: /comb_quadruple_PDFD/
 ---
 
 PDFD Benchmarks

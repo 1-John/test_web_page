@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./comb_quintuple_ROD/
+permalink: /comb_quintuple_ROD/
 ---
 
 ROD Benchmarks

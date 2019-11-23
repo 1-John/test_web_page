@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_SORTD/
+permalink: /whole_SORTD/
 ---
 
 Comparision of behavior of SORTD benchmark with background load on triples, quadruples and quintuples.

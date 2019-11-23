@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_triple/
+permalink: /whole_triple/
 ---
 
 Triples benchmark comparision.

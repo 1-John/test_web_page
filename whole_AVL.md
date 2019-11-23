@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_AVL/
+permalink: /whole_AVL/
 ---
 
 Comparision of behavior of AVL benchmark with background load on triples, quadruples and quintuples.

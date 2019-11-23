@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_EGG/
+permalink: /whole_EGG/
 ---
 
 Comparision of behavior of EGG benchmark with background load on triples, quadruples and quintuples.

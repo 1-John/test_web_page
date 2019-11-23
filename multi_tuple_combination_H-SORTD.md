@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_H-SORTD/
+permalink: /multi_tuple_combination_H-SORTD/
 ---
 
 Comparision of benchmarks with common background load of H and SORTD.

@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_O/
+permalink: /whole_O/
 ---
 
 Comparision of behavior of O benchmark with background load on triples, quadruples and quintuples.

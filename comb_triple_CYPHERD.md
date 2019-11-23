@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./comb_triple_CYPHERD/
+permalink: /comb_triple_CYPHERD/
 ---
 
 CYPHERD Benchmarks

@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_CYPHERD/
+permalink: /whole_CYPHERD/
 ---
 
 Comparision of behavior of CYPHERD benchmark with background load on triples, quadruples and quintuples.

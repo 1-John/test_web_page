@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_FACE-PDFD/
+permalink: /multi_tuple_combination_FACE-PDFD/
 ---
 
 Comparision of benchmarks with common background load of FACE and PDFD.

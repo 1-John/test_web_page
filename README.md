@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /READ/
+permalink: /
 ---
 ## Readme index of pages:
     

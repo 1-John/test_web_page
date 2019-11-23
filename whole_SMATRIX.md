@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_SMATRIX/
+permalink: /whole_SMATRIX/
 ---
 
 Comparision of behavior of SMATRIX benchmark with background load on triples, quadruples and quintuples.

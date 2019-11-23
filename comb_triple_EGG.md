@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./comb_triple_EGG/
+permalink: /comb_triple_EGG/
 ---
 
 EGG Benchmarks

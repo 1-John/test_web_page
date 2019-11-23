@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_CYPHERD-O/
+permalink: /multi_tuple_combination_CYPHERD-O/
 ---
 
 Comparision of benchmarks with common background load of CYPHERD and O.

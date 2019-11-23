@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_FACE-K/
+permalink: /multi_tuple_combination_FACE-K/
 ---
 
 Comparision of benchmarks with common background load of FACE and K.

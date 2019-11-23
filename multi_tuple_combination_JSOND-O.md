@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_JSOND-O/
+permalink: /multi_tuple_combination_JSOND-O/
 ---
 
 Comparision of benchmarks with common background load of JSOND and O.

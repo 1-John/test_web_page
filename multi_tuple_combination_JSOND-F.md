@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_JSOND-F/
+permalink: /multi_tuple_combination_JSOND-F/
 ---
 
 Comparision of benchmarks with common background load of JSOND and F.

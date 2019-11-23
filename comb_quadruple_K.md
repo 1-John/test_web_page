@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./comb_quadruple_K/
+permalink: /comb_quadruple_K/
 ---
 
 K Benchmarks

@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_JSOND/
+permalink: /whole_JSOND/
 ---
 
 Comparision of behavior of JSOND benchmark with background load on triples, quadruples and quintuples.

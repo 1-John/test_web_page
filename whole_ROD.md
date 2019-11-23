@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_ROD/
+permalink: /whole_ROD/
 ---
 
 Comparision of behavior of ROD benchmark with background load on triples, quadruples and quintuples.

@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_FLOYD/
+permalink: /whole_FLOYD/
 ---
 
 Comparision of behavior of FLOYD benchmark with background load on triples, quadruples and quintuples.

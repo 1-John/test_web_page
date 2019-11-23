@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_H-FLOYD/
+permalink: /multi_tuple_combination_H-FLOYD/
 ---
 
 Comparision of benchmarks with common background load of H and FLOYD.

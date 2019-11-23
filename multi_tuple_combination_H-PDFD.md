@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_H-PDFD/
+permalink: /multi_tuple_combination_H-PDFD/
 ---
 
 Comparision of benchmarks with common background load of H and PDFD.

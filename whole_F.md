@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_F/
+permalink: /whole_F/
 ---
 
 Comparision of behavior of F benchmark with background load on triples, quadruples and quintuples.

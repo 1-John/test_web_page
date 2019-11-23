@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./whole_quadruple/
+permalink: /whole_quadruple/
 ---
 
 Quadruples benchmark comparision.

@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Like a Hacker
 tags: space separated list
-permalink: ./multi_tuple_combination_FLOYD-SMATRIX/
+permalink: /multi_tuple_combination_FLOYD-SMATRIX/
 ---
 
 Comparision of benchmarks with common background load of FLOYD and SMATRIX.
