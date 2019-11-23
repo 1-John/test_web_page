@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 ---
-## Readme index of pages static files:
+## Readme index of pages static files: with all
 static files
 
 {% assign image_files = site.static_files | where: "image", true %}
