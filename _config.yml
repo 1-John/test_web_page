@@ -1,6 +1,26 @@
 theme: jekyll-theme-time-machine
 defaults:
+  - scope:
+      path: "images/"
+    values:
+      image: true
+  - scope:
+      path: "images/single"
+    values:
+      image: true
 - scope:
       path: "images/double"
+    values:
+      image: true
+- scope:
+      path: "images/triple"
+    values:
+      image: true
+- scope:
+      path: "images/quadruple"
+    values:
+      image: true
+- scope:
+      path: "images/quintuple"
     values:
       image: true
