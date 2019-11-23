@@ -17,7 +17,7 @@ defaults:
     values:
       image: true
 - scope:
-      path: "images/quadruple"
+      path: "images/quadtuple"
     values:
       image: true
 - scope:
