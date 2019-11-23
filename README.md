@@ -1,5 +1,4 @@
 ---
-layout: home
 permalink: /
 ---
 ## Readme index of pages:
