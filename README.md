@@ -1,9 +1,34 @@
 ---
+layout: home
 permalink: /
 ---
-## TODO add text to this Readme 
+## Readme index of pages static files: with all
+static files
 
-### index of pages:
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+
+This repository is a companion to the paper  "Managing Latency in Edge-Cloud Environment." We used 17 different benchmarks to create tasks that would simulate maximum usage on our platform. This data is then used in the predictor to predict worst-case scenarios (90% confidence level). This page has multiple categories
+
+we have done large testing and the results are presented here. The measurments contain in section "Single" measurments where task is the only one running on the server. Then we added background load from 1 to 4 other processes (from tuples to quintuples) and we have observed the changes in behavior of the measured task. 
+
+Behavior of the process alone is to be seen on page single. The Behavior for doubles to which we have complate coverage of the space state is in doubles. It is also the last graph where we ploted everything together (17*17 columns). We have also small graphs where only one of the 17 benchmarks is compared with different background  load. For triples and higher it was necessary to keep the graphs comprehensible to split the graphs even further so we have the graphs separated according to the combination of tasks in background and the measured task. And in multi tuple combination we again split according to the task and subset of background tasks but we have different sizes of background load
+
+The result for each category ./whole_triple / 
+
+[./whole_quadruple/](https://1-john.github.io/test_web_page/whole_quadruple/)
+
+[./whole_quintuple/](https://1-john.github.io/test_web_page/whole_quintuple/)
+
+[./single_and_doubles/](https://1-john.github.io/test_web_page/single_and_doubles/)
+
+
+
+
+
+
 
 * [./whole_AVL/](./whole_AVL/) 
 * [./whole_A/](./whole_A/) 
